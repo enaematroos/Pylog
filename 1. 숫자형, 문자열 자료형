@@ -1,0 +1,12 @@
+# 1. 숫자형, 문자열 자료형
+
+## 🧮 숫자형 자료형
+
+```python
+# 정수형 예시
+a = 123
+print(type(a))  # <class 'int'>
+
+# 실수형 예시
+a = -2.84
+print(type(a))  # <class 'float'>
