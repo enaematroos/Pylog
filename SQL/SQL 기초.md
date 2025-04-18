@@ -22,5 +22,5 @@
 
 - 필요한 데이터를 각각의 특성에 따라 **테이블**로 변환하여 분류
 ![Databaseexplaning](https://github.com/enaematroos/Image/blob/main/%EC%BA%A1%EC%B2%98.PNG?raw=true)
-
+<img src="https://github.com/enaematroos/Image/blob/main/%EC%BA%A1%EC%B2%98.PNG?raw=true" width="800" height=600">
 
