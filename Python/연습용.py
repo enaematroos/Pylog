@@ -4,7 +4,7 @@ if 'apple' in basket:
 else:
     print("go to market")
 
-print("이재진 바보")
+print("최동연바보")
 
 a = 12818 / 3
 b = 1234 * 4
