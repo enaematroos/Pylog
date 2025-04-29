@@ -80,3 +80,50 @@ add = 0
 for i in range(1, 11):
     add += i
     print(add)
+
+def add(a,b): return a+b
+a = 3
+b = 4
+c = add(a,b)
+
+print(c)
+
+def 주문_피자(종류):
+    return f'{종류} 피자 나왔습니다!'
+message = 주문_피자("치즈")
+print(message)
+
+def 주문_피자(종류):
+    print(f"{종류} 피자 나왔습니다!")
+
+메시지 = 주문_피자("치즈")
+print(메시지)
+
+def add_many(*args):
+    result = 0
+    for i in args: 
+        result = result + i
+    return result
+
+result = add_many(1,2,3)
+print(result)
+
+result = add_many(1,2,3,4,5,6,7,8,9,10)
+print(result)
+
+
+add = lambda a, b: a*b
+result = add(3,4)
+print(result)
+
+def add(a,b):
+    return a*b
+
+result = add(3,4)
+print(result)
+
+for i in range(10):
+    print(i, end=' ')
+
+for hello in "hello":
+    print(hello, end='')
